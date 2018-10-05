@@ -6,5 +6,5 @@
 
 遊戲畫面:
 > 會要求你輸入要猜幾位數(只能介於1~9)
-![start](blob:https://imgur.com/80acbe0e-5ee9-4509-a14b-c39ba00a8698)  
+![start](https://i.imgur.com/SOuvjHb.png)  
 
